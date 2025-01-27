@@ -1,19 +1,16 @@
 import React from "react";
 
 const Footer = () => {
-  const LinkedIn = "/public/img/linkedin.png";
-  const Github = "/public/img/github.png";
-  const Gmail = "/public/img/gmail.png";
+  const LinkedIn = "/img/linkedin.png";
+  const Github = "/img/github.png";
+  const Gmail = "/img/gmail.png";
 
   return (
     <>
       <footer class=" rounded-sm shadow-sm bg-gray-900">
         <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
           <div class="sm:flex sm:items-center sm:justify-between">
-            <a
-              href="https://flowbite.com/"
-              class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse"
-            >
+            <a class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
               <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">
                 DevRapi
               </span>

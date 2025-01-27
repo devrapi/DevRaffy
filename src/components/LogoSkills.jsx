@@ -3,14 +3,14 @@ import LogoWall from "../ReactBitsComponents/LogoWall";
 import { div } from "framer-motion/client";
 
 const LogoSkills = () => {
-  const react = "/public/img/react.png";
-  const html = "/public/img/html.png";
-  const css = "/public/img/css-3.png";
-  const js = "/public/img/js.png";
-  const php = "/public/img/php.png";
-  const figma = "/public/img/figma.png";
-  const sql = "/public/img/sql.png";
-  const git = "/public/img/github.png";
+  const react = "/img/react.png";
+  const html = "/img/html.png";
+  const css = "/img/css-3.png";
+  const js = "/img/js.png";
+  const php = "/img/php.png";
+  const figma = "/img/figma.png";
+  const sql = "/img/sql.png";
+  const git = "/img/github.png";
 
   const logoImgs = [
     { imgUrl: react, altText: "React Bits Logo" },

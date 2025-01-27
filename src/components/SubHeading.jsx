@@ -1,7 +1,7 @@
 import React from "react";
 
 const SubHeading = () => {
-  const Sub = "/public/img/subHEad.mp4";
+  const Sub = "/img/subHEad.mp4";
   return (
     <div className="grid items-center grid-cols-1 gap-10 sm:py-10 md:py-12 lg:py-14 xl:py-18 lg:gap-6 md:gap-8 xl:my-20 md:grid-cols-2">
       {/* Title Section */}

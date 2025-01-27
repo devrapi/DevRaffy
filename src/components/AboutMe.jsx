@@ -2,7 +2,7 @@ import React from "react";
 import Focus from "./Focus";
 
 const AboutMe = () => {
-  const AboutMe = "/public/img/AboutMe.png";
+  const AboutMe = "/img/AboutMe.png";
 
   return (
     <div className="grid items-center grid-cols-1 gap-6 md:grid-cols-2">

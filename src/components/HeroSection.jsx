@@ -12,8 +12,7 @@ import Quote from "./Quote";
 import Footer from "./Footer";
 
 const HeroSection = () => {
-  const hero = "/public/img/squid.png";
-  const downArrow = "/public/img/arrow.png";
+  const hero = "/img/squid.png";
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const formattedDate = new Date().getFullYear();
@@ -59,7 +58,7 @@ const HeroSection = () => {
               </div>
               <div className="mx-2 text-xl tracking-tighter font-SquidFont">
                 <a
-                  href="/public/img/DAPADAP_RAFFY_CV (1).pdf"
+                  href="/img/DAPADAP_RAFFY_CV (1).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -1,11 +1,11 @@
 import React from "react";
 import RollingProj1 from "../ReactBitsComponents/RollingProj1";
 const Project3 = () => {
-  const p1 = "/public/img/project3/project3-4.png";
-  const p2 = "/public/img/project3/project3-5.png";
-  const p3 = "/public/img/project3/project3-3.png";
-  const p4 = "/public/img/project3/project3-2.png";
-  const p5 = "/public/img/project3/project3-1.png";
+  const p1 = "/img/project3/project3-4.png";
+  const p2 = "/img/project3/project3-5.png";
+  const p3 = "/img/project3/project3-3.png";
+  const p4 = "/img/project3/project3-2.png";
+  const p5 = "/img/project3/project3-1.png";
 
   const images = [p1, p2, p3, p4, p5];
 
